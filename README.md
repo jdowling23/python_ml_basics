@@ -1,5 +1,7 @@
 # python_basics and diving into Machine Learning
-Basic refresher coding practice for Python and Machine Learning including scripts to process data sets using:
+### 0. queue_stacks.py
+define functions and use basic functionality of queues and stacks
+
 ### 1. linear_regression_students.py
 linear regression visualization of student data pulled from csv. Using sklearn linear_model, pandas, numpy and matplotlib. dataset provided by student-mat.csv
 ### 2. SVM_cancer.py (Support Vector Machine)
