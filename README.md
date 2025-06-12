@@ -23,3 +23,6 @@ Use pandas, seaborn and matplotlib libraries and dataset provided by sklearn.dat
 ### 8. wine_classify.py
 visualize and classify if a wine belongs to one of 3 different cultivars (different regions of italy) based on its chemical properties. 
 Use pandas, seaborn, matplotlib and sklearn for the dataset
+### 9. mnist_recognition.py
+examines 70,000 28x28 pixel grayscale images of digits in order to classify them into respective digit classes (0-9)
+uses matplotlib and sklearn.datasets.fetch_openml dataset. 
