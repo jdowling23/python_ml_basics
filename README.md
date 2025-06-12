@@ -15,3 +15,6 @@ visualize relationships between age, sex, bmi, bp, s1, s2, s3, s4, s5, s6 with p
 Visualization of classes based on sepal length, sepal width, petal length, petal width using matplotlib and seaborn. Dataset provided by sklearn.datasets.load_iris()
 ### 6. digits_visualization.py
 'Heat map' visualization using matplotlib to show possible digits in data. Dataset provided by sklearn.datasets.load_digits()
+### 7. linnerud_linear.py
+visualize multivar regression relationship between chin-ups, sit-ups, and jumps with weight, waist size, and pulse.
+Use pandas, seaborn and matplotlib libraries and dataset provided by sklearn.datasets.load_linnerud()
