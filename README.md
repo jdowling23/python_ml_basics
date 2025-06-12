@@ -18,3 +18,6 @@ Visualization of classes based on sepal length, sepal width, petal length, petal
 ### 7. linnerud_linear.py
 visualize multivar regression relationship between chin-ups, sit-ups, and jumps with weight, waist size, and pulse.
 Use pandas, seaborn and matplotlib libraries and dataset provided by sklearn.datasets.load_linnerud()
+### 8. wine_classify.py
+visualize and classify if a wine belongs to one of 3 different cultivars (different regions of italy) based on its chemical properties. 
+Use pandas, seaborn, matplotlib and sklearn for the dataset
